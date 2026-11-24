@@ -1,5 +1,5 @@
 {
  "entrypoint": "main.ts",
- "entry_txt": "LGTM. Left one nit on line 12, mostly so git blame has proof I was here.",
- "chars": 72
+ "entry_txt": "LGTM. Left one nit, mostly so git blame has proof I was here.",
+ "chars": 61
 }
